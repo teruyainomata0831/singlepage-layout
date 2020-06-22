@@ -1,3 +1,3 @@
 # singlepage-layout
 
-singlepage-layout.netlify.app
+https://singlepage-layout.netlify.app/
